@@ -1,0 +1,7 @@
+.zom{
+    transition: all 0.3s ease-in-out;
+    
+}
+.zom:hover{
+    transform: scale(1.2);
+}

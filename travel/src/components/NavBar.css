@@ -1,0 +1,19 @@
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
+    background-color: rgb(13, 110, 253) !important;
+    color: white !important;
+}
+.sbg {
+    background-color: rgb(233, 233, 233) !important;
+}
+.sbg:hover{
+    background-color:black !important;
+    color: white !important;
+}
+.w-99{
+    width: 95%;
+    margin: 2%;
+    
+}
+.z{
+    z-index: 1;
+}

@@ -1,0 +1,28 @@
+.hom img{
+    width: 100%;
+    height: 50rem !important;
+    object-fit: cover;
+}
+img{
+    width: 100%;
+    height: 40rem;
+    object-fit: cover;
+}
+.Hero-text{
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100%;
+}
+.Hero-text h1{
+    font-size: 4rem;
+    font-weight: 800;
+    color: white;
+}
+.Hero-text h3{
+    font-size: 2.5rem;
+    font-weight: 500;
+    color: white;
+    padding: 1rem;
+}
